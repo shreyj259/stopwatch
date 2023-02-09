@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import './app.css'
+import './App.css'
 import Display from "./components/Display";
 import LapBtn from "./components/LapBtn";
 import { LapDisplay } from "./components/LapDisplay";
